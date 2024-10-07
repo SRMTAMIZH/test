@@ -1,0 +1,11 @@
+{
+   "name": "my-vercel-radius-app",
+   "version": "1.0.0",
+   "main": "api/login.js",
+   "scripts": {
+       "dev": "vercel dev"
+   },
+   "dependencies": {
+       "radius-client": "^1.0.0" // Adjust to the latest version
+   }
+}
